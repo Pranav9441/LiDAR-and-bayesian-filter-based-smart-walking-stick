@@ -1,0 +1,9 @@
+# Optional dependencies — the app runs without them.
+# pyttsx3 enables spoken (audio) navigation output.
+# openai enables the optional GPT-based response mode.
+#
+# Tkinter is part of the Python standard library and is NOT installed via pip.
+# On Debian/Ubuntu, install it with: sudo apt install python3-tk
+
+pyttsx3>=2.90
+openai>=1.0.0
