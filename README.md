@@ -8,7 +8,6 @@ A real-time **navigation-assistance simulator** for the visually impaired, built
 
 ## 📸 Screenshots
 
-> Add your screenshots to a `screenshots/` folder and they'll show up here. You can grab them by running the app, or export the figures from the project report.
 
 | LiDAR Scanner | Voice Commands |
 |---|---|
